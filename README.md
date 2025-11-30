@@ -6,5 +6,5 @@ Currently, I'm improving my skills in Computer Science and exploring new opportu
 - 📫 How to reach me:
   - [Instagram](https://www.instagram.com/aynxitis/)
   - [E-mail](mailto:blmed.anis@gmail.com)
-  - Discord: @wholelotta4nx
   - [LinkedIn](www.linkedin.com/in/anis-belamri)
+  - Discord: @wholelotta4nx
