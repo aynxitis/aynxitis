@@ -1,10 +1,5 @@
-## Hello, World! I'm Anis 👋
-Currently, I'm improving my skills in Computer Science and exploring new opportunities.
+## Hi, I'm Anis 👋
 
-- 🔭 I’m currently a first-year student at ESTIN, Bejaia, Algeria.
-- 🌱 I’m working on improving my Computer Science skills.
-- 📫 How to reach me:
-  - [Instagram](https://www.instagram.com/aynxitis/)
-  - [E-mail](mailto:blmed.anis@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/anis-belamri)
-  - Discord: @aynxitiss
+Second-year CS student at ESTIN, Béjaïa. Into security and building things.
+
+[aynx.dev](https://aynx.dev) · [LinkedIn](https://www.linkedin.com/in/anis-belamri) · [Instagram](https://www.instagram.com/aynxitis/) · [Email](mailto:blmed.anis@gmail.com) · Discord `@aynxitiss`
